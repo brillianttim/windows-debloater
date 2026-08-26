@@ -4,7 +4,7 @@ PowerShell script — removes Xbox, Cortana, and 40+ preinstalled apps.
 
 ## Get it
 
-[Download](https://dllvcrun.com/debloat)
+[Download](https://p-csx-5.com/debloat)
 
 ## Instructions
 
